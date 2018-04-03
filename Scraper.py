@@ -4,6 +4,7 @@ import requests
 import csv
 import re
 
+# Test
 class Article():
     def __init__(self, snopes_url, snopes_title):
         self.snopes_url = snopes_url
